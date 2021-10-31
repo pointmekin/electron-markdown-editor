@@ -16,7 +16,7 @@ const config = {
     'packages/**/dist/**',
   ],
   extraMetadata: {
-    version: process.env.VITE_APP_VERSION,
+    version: '1.0.0',
   },
 };
 
